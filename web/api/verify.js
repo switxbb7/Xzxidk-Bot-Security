@@ -9,7 +9,7 @@ if(!user){
 }
 
 // CAMBIAR POR URL DE TU BOT (EKNODES)
-const BOT_API = "https://TU-BOT-EKNODES/verify/" + user;
+const BOT_API = "http://de1.eknodes.es:25711/verify/" + user;
 
 try{
 
